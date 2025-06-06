@@ -91,7 +91,6 @@ export default function Signup() {
             required
           />
         </label>
-
         <label>
           Country:
           <select
@@ -108,7 +107,6 @@ export default function Signup() {
             <option value="Australia">Australia</option>
           </select>
         </label>
-
         <label>
           Password:
           <div style={{ position: "relative" }}>
